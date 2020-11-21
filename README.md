@@ -9,4 +9,4 @@
 5.关闭客户端（加线程休眠保证操作完成）
 
 以及创建watch机制
-![学生表](https://github.com/JackFong/MapReduce_1/blob/main/picture/student%E8%A1%A8.png)
+![watch](https://github.com/JackFong/ZookeeperAPI/blob/main/ZookeeperAPI/1.png)
